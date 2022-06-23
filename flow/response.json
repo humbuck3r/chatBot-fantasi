@@ -1,0 +1,95 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "Hola gracias por comunicarte con fantasi cotillon \n",
+            "Prueba escribiendo *hola* \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "El flujo ha finalizado \n"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "Hola soy *Merengue* el asistente de fantasi cotillon\n",
+            "Este es nuestro menu de consultas(responde solo con el numero de consulta):\n ",
+            "*1*_Horarios de atención\n",
+            "*2*_Donde estan ubicados?\n",
+            "*3*_Puedo hacer un pedido y retirar en sucursal?\n",
+            "*4*_Como encargo una lamina comestible?\n",
+            "*5*_Hacen envios a domicilio?\n",
+            "*6*_Como encargo un combo para cumple?"
+            
+        ],
+        "media":null,
+        "trigger":null
+        
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "nuestros horarios son de lunes a lunes de 9 a 22hs,trabajamos dias feriados"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "Estamos ubicados dentro del paseo de compras del hiper libertad Centro Comercial Libertad\n",
+             "Joaquín V. González 450 Local L50, M5501 Godoy Cruz, Mendoza\n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            
+             "Si tomamos tu pedido por este medio \n",
+             "podes detallarnos tu pedido y retirarlo en sucursal y no hacer cola"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            
+             "Las laminas comestibles tienen un costo de $250 \n",
+             "se entregan los dias miercoles y viernes desde las 9:00hs \n",
+             "tomamos seña por este medio o podes pasar por sucursal a señar\n"
+
+
+             
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+                      "si hacemos envios los dias lunes,miercoles y viernes\n",
+                      "repartimos despues de las 15:00hs,envianos tu ubicacion",
+                      "para saber si llegamos a tu domicilio"
+
+
+             
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "*6*_Los combos(piñata,10 bolsitas,banderín,2 centros de mesa) tienen un valor de $1200 ,los pedidos se toman con 15 días de anticipación.\n",
+            "podés señar en sucursal o por este medio enviamos link de pago\n"
+
+
+             
+        ],
+        "media":null,
+        "trigger":null
+    }
+}
